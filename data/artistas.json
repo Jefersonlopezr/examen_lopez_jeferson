@@ -1,0 +1,42 @@
+[
+    {
+        "Artist name": "The Beatles",
+        "Country": "United Kingdom",
+        "Active years": "1960–1970",
+        "Release year of first charted record": 1962,
+        "Genre": "Rock/Pop",
+        "Total certified units": "294.6 million",
+        "Claimed sales": "600 million",
+        "Active": false
+    },
+    {
+        "Artist name": "Michael Jackson",
+        "Country": "United States",
+        "Active years": "1964–2009",
+        "Release year of first charted record": 1971,
+        "Genre": "Pop/Rock/Dance/Soul/R&B",
+        "Total certified units": "289.5 million",
+        "Claimed sales": "500 million",
+        "Active": false
+    },
+    {
+        "Artist name": "Elvis Presley",
+        "Country": "United States",
+        "Active years": "1953–1977",
+        "Release year of first charted record": 1956,
+        "Genre": "Rock and Roll/Pop/Country",
+        "Total certified units": "234.7 million",
+        "Claimed sales": "500 million",
+        "Active": false
+    },
+    {
+        "Artist name": "Elton John",
+        "Country": "United Kingdom",
+        "Active years": "1962–present",
+        "Release year of first charted record": 1970,
+        "Genre": "Pop/Rock",
+        "Total certified units": "214.3 million",
+        "Claimed sales": "300 million",
+        "Active": true
+    }
+]
