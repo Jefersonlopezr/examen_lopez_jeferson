@@ -8,7 +8,7 @@ from modulos.reportes import artistas_por_pais_y_tiempo, artistas_por_genero, ar
 def mostrar_menu():
     print("*****BIENVENIDO*****")
     while True:
-        print("\n🎶 --- Menú Principal --- 🎶")
+        print("Menú Principal")
         print("1. Agregar Artista")
         print("2. Mostrar Artistas")
         print("3. Editar Artista")
@@ -54,5 +54,9 @@ def mostrar_menu():
         else:
             print("La opcion es invalida.")
 
-if __name__ == "__main__":
-    mostrar_menu()
+
+
+mostrar_menu()
+
+
+
